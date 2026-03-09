@@ -1,4 +1,10 @@
-# 💫 About Me:
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Vivek+Sahu" />
+</h1>
+
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F7B93E&center=true&vCenter=true&width=900&lines=C+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+JavaScript;AWS+%7C+Azure+%7C+Google+Cloud+%7C+Alibaba+Cloud;React+%7C+Express+%7C+Flask;Docker+%7C+Kubernetes+%7C+CI%2FCD;Apache+Spark+%7C+Hadoop;GitHub+%7C+GitLab+%7C+Postman;Cloud+Computing+%7C+Full+Stack+Development+%7C+DSA" />
+</h3>
 Computer Science student passionate about cloud computing and software development.<br>Currently building projects in AWS, full-stack development, and improving problem-solving skills through DSA.
 
 
@@ -12,10 +18,8 @@ Computer Science student passionate about cloud computing and software developme
 ![](https://nirzak-streak-stats.vercel.app/?user=viveksahu4&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viveksahu4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=viveksahu4&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
